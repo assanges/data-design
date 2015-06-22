@@ -1,23 +1,23 @@
 <!--
 Sections hidden for Gitbook publishing
   <section data-type="introduction">-->
-<h1>How to Use This Book</h1>
+<h1>如何使用這本書</h1>
 
-<h2>Structure of the Book</h2>
+<h2>本書結構</h2>
 
-<p>The book&rsquo;s chapters follow pretty closely the actual set of steps that need to be accomplished before data can be visualized, from the design of the survey to the collection of the data to ultimately its visualization. Really pretty simple. So if you&rsquo;re fairly new to the game, it is probably going to make sense for you to start at the beginning and read the whole way through the book. Likewise, if you&rsquo;re familiar with some of the content, but not everything, there&rsquo;s no harm in just skipping to the chapters that are relevant to your case: you aren&rsquo;t going to be scrambling to catch up if you skip around!</p>
+<p>本書章節基本上以資料如何被視覺化的實際操作作區分<s>(除非不是)</s>，從問卷設計到資料搜集再到最終的視覺化等等。The book&rsquo;s chapters follow pretty closely the actual set of steps that need to be accomplished before data can be visualized, from the design of the survey to the collection of the data to ultimately its visualization. Really pretty simple. So if you&rsquo;re fairly new to the game, it is probably going to make sense for you to start at the beginning and read the whole way through the book. Likewise, if you&rsquo;re familiar with some of the content, but not everything, there&rsquo;s no harm in just skipping to the chapters that are relevant to your case: you aren&rsquo;t going to be scrambling to catch up if you skip around!</p>
 
 <div data-type="warning">
-<p>If you don&rsquo;t have much (or any) experience with survey design and data collection and visualization, it would probably be best to read this book all the way through before you start collecting your data. Some of the visualizations you want to make when everything is said and done might require some well-planned decisions up front. If you&rsquo;re reading this book part-by-part as you go, there&rsquo;s a better chance that you might not consider something until it&rsquo;s too late!</p>
+<p>如果你對問卷設計、資料搜集和視覺化僅略懂皮毛（甚至毫無概念）的話，我們強烈建議你先讀畢此書再進行資料搜集。某些視覺化需要詳進的討論及規劃，如果你依序閱讀本書，你將極有可能在<s>抵達公海</s>問題出現之前及早發現並作出適當處理，善哉善哉！</p>
 </div>
 
-<h2>Common Terms and Definitions</h2>
+<h2>常見名詞及定義</h2>
 
-<p>Throughout the book, there may be times when we introduce specialized terms and phrases that are rather specific to the topic being discussed. Whenever this is the case, we will provide a link to the term in our <a class="glossterm" href="glossary01.html#" target="_blank">glossary</a>. You&rsquo;re welcome to reference this at any time, but we do our best to point you in that direction when a new term is used.</p>
+<p>透過此書，我們會多次在特定主題内談及專有詞彙，此乃正常能量釋放。若遇以上情形，請你勿慌、勿急、勿戰，我們會於文中提供連結至<a class="glossterm" href="glossary01.html#" target="_blank">專有詞彙</a>解説頁面。歡迎你隨時閱讀這份參考資料，而我們則會力盡所能在提及新的專有詞彙時引導你至該處，已收無縫接軌之效。</p>
 
-<h2>Advanced Chapters</h2>
+<h2>進階章節</h2>
 
-<p>This book does contain some chapters that go a bit above and beyond just the basics that we think you should know. We do denote these chapters with a warning at the beginning of the chapter so that you know to expect a more in-depth look at the topic. Reading these chapters (although we recommend it!) is not necessary for an adequate understanding of the broader topic being discussed; however, there are times when we feel that it&rsquo;s useful to provide you with easy access to the information and that you could benefit from a more thorough understanding of the topic.</p>
+<p>此書This book does contain some chapters that go a bit above and beyond just the basics that we think you should know. We do denote these chapters with a warning at the beginning of the chapter so that you know to expect a more in-depth look at the topic. Reading these chapters (although we recommend it!) is not necessary for an adequate understanding of the broader topic being discussed; however, there are times when we feel that it&rsquo;s useful to provide you with easy access to the information and that you could benefit from a more thorough understanding of the topic.</p>
 
 <h2>Examples: The Good, the Bad, and the Ugly</h2>
 
