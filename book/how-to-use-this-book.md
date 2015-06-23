@@ -11,15 +11,15 @@ Sections hidden for Gitbook publishing
 <p>如果你對問卷設計、資料搜集和視覺化僅略懂皮毛（甚至毫無概念）的話，我們強烈建議你先讀畢此書再進行資料搜集。某些視覺化需要詳進的討論及規劃，如果你依序閱讀本書，你將極有可能在<s>抵達公海</s>問題出現之前及早發現並作出適當處理，善哉善哉！</p>
 </div>
 
-<h2>常見名詞及定義</h2>
+<h2>常見詞彙及定義</h2>
 
 <p>透過此書，我們會多次在特定主題内談及專有詞彙，此乃正常能量釋放。若遇以上情形，請你勿慌、勿急、勿戰，我們會於文中提供連結至<a class="glossterm" href="glossary01.html#" target="_blank">專有詞彙</a>解説頁面。歡迎你隨時閱讀這份參考資料，而我們則會力盡所能在提及新的專有詞彙時引導你至該處，已收無縫接軌之效。</p>
 
 <h2>進階章節</h2>
 
-<p>此書含有我們認為超出常人應該理解的進階章節，因此我們會在這些章節開首標註警示，好讓你了解。雖然這些章節僅為選讀部分（但我們強烈建議要讀！），泛泛之輩無視即可，但This book does contain some chapters that go a bit above and beyond just the basics that we think you should know. We do denote these chapters with a warning at the beginning of the chapter so that you know to expect a more in-depth look at the topic. Reading these chapters (although we recommend it!) is not necessary for an adequate understanding of the broader topic being discussed; however, there are times when we feel that it&rsquo;s useful to provide you with easy access to the information and that you could benefit from a more thorough understanding of the topic.</p>
+<p>此書含有我們認為<s>超出常人理解範圍的</s>較為艱澀的進階章節，因此我們會在這些章節開首標註提示。雖然這些章節僅為選讀部分，但我們強烈建議This book does contain some chapters that go a bit above and beyond just the basics that we think you should know. We do denote these chapters with a warning at the beginning of the chapter so that you know to expect a more in-depth look at the topic. Reading these chapters (although we recommend it!) is not necessary for an adequate understanding of the broader topic being discussed; however, there are times when we feel that it&rsquo;s useful to provide you with easy access to the information and that you could benefit from a more thorough understanding of the topic.</p>
 
-<h2>Examples: The Good, the Bad, and the Ugly</h2>
+<h2>範例：好、壊、醜三觀</h2>
 
 <p>One of our favorite parts about this book (although maybe we&rsquo;re a little biased) is the examples that we use throughout: many of these concepts can get kind of abstract and having a concrete example to refer to really helps to keep things straight. That said, there are a few different styles that we use to indicate good and bad examples, dos and don&rsquo;ts, etc.</p>
 
@@ -36,13 +36,13 @@ Sections hidden for Gitbook publishing
   </tbody>
 </table>
 
-<h3>好的例子</h3>
+<h3>正確教材</h3>
 
 <p>Good examples are always accompanied by a green or blue bar, a checkmark, or a thumbs-up symbol, depending on what&rsquo;s being presented (a graphic, a data table, a procedure, something else).</p>
 
-<h3>Bad Examples</h3>
+<h3>反面教材</h3>
 
-<p>Conversely, whenever we illustrate what <strong>not</strong> to do in a given situation, we will include a gray bar or cross out the example with a large X or include a thumbs-down symbol to accompany it. These different styles will look like:</p>
+<p>相反，當在指出特定情况下<strong>不應該</strong>做的事情時，我們會將以灰色方框標註並用大叉劃掉或是給噓。各類樣式如下：</p>
 
 <table class="custom good-and-bad">
         <tbody>
@@ -60,17 +60,17 @@ Sections hidden for Gitbook publishing
 <table class="custom yes-and-no">
         <tbody>
                 <tr>
-                        <th>Do</th>
-                        <th>Don't</th>
+                        <th>請你跟我這樣做</th>
+                        <th>不要學他那樣做</th>
     </tr>
     <tr>
-      <td>This column lists good tips and advice.</td>
-      <td>This column shows what you should avoid.</td>
+      <td>此欄列出好的點子和建議。</td>
+      <td>此欄列出你應避免的事項。</td>
     </tr>
   </tbody>
 </table>
 
-<p>Sometimes we also mark good and bad examples using images</p>
+<p>偶有時候我們也會以圖片展示正反例子</p>
 
 <figure><img alt="Unclear radio buttons" src="../images/sections/03/correct-ages.png" /></figure>
 
