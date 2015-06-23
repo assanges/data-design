@@ -17,26 +17,26 @@ Sections hidden for Gitbook publishing
 
 <h2>進階章節</h2>
 
-<p>此書含有超出常人應該理解的章節This book does contain some chapters that go a bit above and beyond just the basics that we think you should know. We do denote these chapters with a warning at the beginning of the chapter so that you know to expect a more in-depth look at the topic. Reading these chapters (although we recommend it!) is not necessary for an adequate understanding of the broader topic being discussed; however, there are times when we feel that it&rsquo;s useful to provide you with easy access to the information and that you could benefit from a more thorough understanding of the topic.</p>
+<p>此書含有我們認為超出常人應該理解的進階章節，因此我們會在這些章節開首標註警示，好讓你了解。雖然這些章節僅為選讀部分（但我們強烈建議要讀！），泛泛之輩無視即可，但This book does contain some chapters that go a bit above and beyond just the basics that we think you should know. We do denote these chapters with a warning at the beginning of the chapter so that you know to expect a more in-depth look at the topic. Reading these chapters (although we recommend it!) is not necessary for an adequate understanding of the broader topic being discussed; however, there are times when we feel that it&rsquo;s useful to provide you with easy access to the information and that you could benefit from a more thorough understanding of the topic.</p>
 
 <h2>Examples: The Good, the Bad, and the Ugly</h2>
 
 <p>One of our favorite parts about this book (although maybe we&rsquo;re a little biased) is the examples that we use throughout: many of these concepts can get kind of abstract and having a concrete example to refer to really helps to keep things straight. That said, there are a few different styles that we use to indicate good and bad examples, dos and don&rsquo;ts, etc.</p>
 
 <table class="custom question-and-answer">
-	<tbody>
-		<tr>
+        <tbody>
+                <tr>
       <th>問題</th>
-			<th>解答</th>
+                        <th>解答</th>
     </tr>
     <tr>
-      <td>What are we hoping to find?</td>
-      <td>The answer lives here.</td>
+      <td>欲尋何事？</td>
+      <td>解答居此。</td>
     </tr>
   </tbody>
 </table>
 
-<h3>Good Examples</h3>
+<h3>好的例子</h3>
 
 <p>Good examples are always accompanied by a green or blue bar, a checkmark, or a thumbs-up symbol, depending on what&rsquo;s being presented (a graphic, a data table, a procedure, something else).</p>
 
@@ -45,23 +45,23 @@ Sections hidden for Gitbook publishing
 <p>Conversely, whenever we illustrate what <strong>not</strong> to do in a given situation, we will include a gray bar or cross out the example with a large X or include a thumbs-down symbol to accompany it. These different styles will look like:</p>
 
 <table class="custom good-and-bad">
-	<tbody>
-		<tr>
-			<th>好處</th>
-			<th>壊處</th>
+        <tbody>
+                <tr>
+                        <th>好處</th>
+                        <th>壊處</th>
     </tr>
     <tr>
-      <td>The benefits of an action go here.</td>
-      <td>And the negatives go here.</td>
+      <td>裨益位此。</td>
+      <td>禍害於此。</td>
     </tr>
   </tbody>
 </table>
 
 <table class="custom yes-and-no">
-	<tbody>
-		<tr>
-			<th>Do</th>
-			<th>Don't</th>
+        <tbody>
+                <tr>
+                        <th>Do</th>
+                        <th>Don't</th>
     </tr>
     <tr>
       <td>This column lists good tips and advice.</td>
