@@ -5,7 +5,7 @@ Sections hidden for Gitbook publishing
 
 <h2>本書結構</h2>
 
-<p>本書章節基本上以資料如何被視覺化的實際操作作區分<s>（除非不是）</s>，從問卷設計到資料搜集再到最終的視覺化等等。The book&rsquo;s chapters follow pretty closely the actual set of steps that need to be accomplished before data can be visualized, from the design of the survey to the collection of the data to ultimately its visualization. Really pretty simple. So if you&rsquo;re fairly new to the game, it is probably going to make sense for you to start at the beginning and read the whole way through the book. Likewise, if you&rsquo;re familiar with some of the content, but not everything, there&rsquo;s no harm in just skipping to the chapters that are relevant to your case: you aren&rsquo;t going to be scrambling to catch up if you skip around!</p>
+<p>本書章節基本上以資料如何被視覺化的實際操作作區分<s>（除非不是）</s>，從問卷設計到資料搜集再到最終的視覺化輸出等等。簡明易瞭，比吃綠豆糕還簡單。The book&rsquo;s chapters follow pretty closely the actual set of steps that need to be accomplished before data can be visualized, from the design of the survey to the collection of the data to ultimately its visualization. Really pretty simple. So if you&rsquo;re fairly new to the game, it is probably going to make sense for you to start at the beginning and read the whole way through the book. Likewise, if you&rsquo;re familiar with some of the content, but not everything, there&rsquo;s no harm in just skipping to the chapters that are relevant to your case: you aren&rsquo;t going to be scrambling to catch up if you skip around!</p>
 
 <div data-type="warning">
 <p>如果你對問卷設計、資料搜集和視覺化僅略懂皮毛（甚至毫無概念）的話，我們強烈建議你先讀畢此書再進行資料搜集。某些視覺化需要詳進的討論及規劃，如果你依序閱讀本書，你將極有可能在<s>抵達公海</s>問題出現之前及早發現並作出適當處理，善哉善哉！</p>
@@ -17,7 +17,7 @@ Sections hidden for Gitbook publishing
 
 <h2>進階章節</h2>
 
-<p>此書含有我們認為<s>超出常人理解範圍的</s>較為艱澀的進階章節，因此我們會在這些章節開首標註提示。雖然這些章節僅為選讀部分，但我們強烈建議This book does contain some chapters that go a bit above and beyond just the basics that we think you should know. We do denote these chapters with a warning at the beginning of the chapter so that you know to expect a more in-depth look at the topic. Reading these chapters (although we recommend it!) is not necessary for an adequate understanding of the broader topic being discussed; however, there are times when we feel that it&rsquo;s useful to provide you with easy access to the information and that you could benefit from a more thorough understanding of the topic.</p>
+<p>此書含有我們認為<s>超出常人理解範圍的</s>較為艱澀的進階章節，因此我們會在這些章節開首標註提示。雖然這些章節僅為選讀部分，對只作淺嚐的讀者未必重要，但我們強烈建議如要全面認識資料視覺化的<b>你</b>閱讀這些章節！因為許多時候我們所收錄的這些章節能夠助你輕鬆理解相關資訊並從中獲益。</p>
 
 <h2>範例：好、壊、醜三觀</h2>
 
@@ -36,7 +36,7 @@ Sections hidden for Gitbook publishing
   </tbody>
 </table>
 
-<h3>正確教材</h3>
+<h3>好的例子</h3>
 
 <p>Good examples are always accompanied by a green or blue bar, a checkmark, or a thumbs-up symbol, depending on what&rsquo;s being presented (a graphic, a data table, a procedure, something else).</p>
 
@@ -77,15 +77,15 @@ Sections hidden for Gitbook publishing
 <p>An image preceded by a gray box with an "x" means that it's a graphical example of a practice that you should avoid.</p>
 
 <figure>
-  <h2 class="avoid">This is an example of what not to do</h2>
+  <h2 class="avoid">這是一個不應做事項的範例</h2>
   <img alt="3D pie" src="../images/sections/01/what-not-to-do.png" />
 </figure>
 
 <h3>Warnings</h3>
 
-<p>Other times, we will just want to make sure that you&rsquo;re careful and don&rsquo;t forget to consider an important point. When this is the case we will include a warning box, identified by a red exclamation mark. (Actually, we already used one of these up above!)</p>
+<p>有時我們可能只是想提醒你多加留意以及別忘了<s>不要炸三隻</s>思考箇中要素。在這種情況下，我們會以紅色感嘆號的警告框作提示（唔，其實我們就在開首用過了）</p>
 
-<h2>作出貢獻或提出修正</h2>
+<h2>貢獻與校正</h2>
 
 <p>If you&rsquo;re reading through the book and notice a typo, or think that something is incorrectly or ambiguously explained, or get a great idea for a new section or chapter, let us know! There are two ways to do this: you can either <a href="https://docs.google.com/a/infoactive.us/forms/d/1LsafHUV-BPQHmQsXHR40UsXS4f0c_jySgMrF9vMloF4/viewform?usp=send_form" target="_blank">fill out this form</a> or, if you&rsquo;re a little bit more technical, follow the directions that we have <a href="https://github.com/infoactive/data-design#can-i-make-edits" target="_blank">on GitHub</a>.</p>
 
